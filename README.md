@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# APP_NAME_HERE
+# TasteTracker
 
 ## Table of Contents
 
@@ -14,16 +14,16 @@ Original App Design Project - README Template
 
 ### Description
 
-SavoryScout
+Uncover hidden gems, savor unforgettable dishes, and share your dining adventures with our vibrant community. From local favorites to exotic delights, TasteTracker is your go-to app for discovering, reviewing, and celebrating the diverse flavors that make every meal an experience.
 
 ### App Evaluation
 
    - **Category:** Food/lifestyle
    - **Mobile:** Platform where people can get real restaurant reviews, mostly valuable to visitors or guests in New Haven.
    - **Story:** Allows users to share their opinions regarding restaurant performances. 
-   - **Market:** Anyone that has access to the application can use it. Most of the user base will be from New Haven since all the restaurants on the app are in New Haven. 
-   - **Habit:** Users can rate and write reviews anytime, anywhere. Users can also edit their reviews over time in case they believe the restaurant performance has changed. 
-   - **Scope:** V1 will start with few restaurants and users will be able to rate and leave reviews for the restaurants. V2 will have more restaurants. V3 will allow users to edit their reviews.
+   - **Market:** Anyone who has access to the application can use it. Most of the user base will be from New Haven since all the restaurants on the app are in New Haven. 
+   - **Habit:** Users can rate and write reviews anytime, anywhere. Users can also edit their reviews over time in case they believe the restaurant's performance has changed. 
+   - **Scope:** V1 will start with a few restaurants, and users will be able to rate and leave reviews for the restaurants. V2 will have more restaurants. V3 will allow users to edit their reviews.
 
 ## Product Spec
 
@@ -62,7 +62,7 @@ SavoryScout
 **Flow Navigation** (Screen to Screen)
 
 - Stream Screen
-    * => Detailed screen for selected restaurant
+    * => Detailed screen for the selected restaurant
 - Review Page
     * => Home (after you are done reviewing)
 - Stream Screen
