@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# TasteTracker
+# MovieRatings
 
 ## Table of Contents
 
@@ -14,16 +14,16 @@ Original App Design Project - README Template
 
 ### Description
 
-Uncover hidden gems, savor unforgettable dishes, and share your dining adventures with our vibrant community. From local favorites to exotic delights, TasteTracker is your go-to app for discovering, reviewing, and celebrating the diverse flavors that make every meal an experience.
+MovieRatings is your go-to app for discovering, reviewing, and celebrating the diverse movies that exist. 
 
 ### App Evaluation
 
-   - **Category:** Food/lifestyle
-   - **Mobile:** Platform where people can get real restaurant reviews, mostly valuable to visitors or guests in New Haven.
-   - **Story:** Allows users to share their opinions regarding restaurant performances. 
-   - **Market:** Anyone who has access to the application can use it. Most of the user base will be from New Haven since all the restaurants on the app are in New Haven. 
-   - **Habit:** Users can rate and write reviews anytime, anywhere. Users can also edit their reviews over time in case they believe the restaurant's performance has changed. 
-   - **Scope:** V1 will start with a few restaurants, and users will be able to rate and leave reviews for the restaurants. V2 will have more restaurants. V3 will allow users to edit their reviews.
+   - **Category:** Entertainment/lifestyle
+   - **Mobile:** Platform where people can get real movie reviews.
+   - **Story:** Allows users to share their opinions regarding movie performances. 
+   - **Market:** Anyone who has access to the application can use it. Most of the user base will be from New Haven since all the movies on the app are in New Haven. 
+   - **Habit:** Users can rate and write reviews anytime, anywhere. Users can also edit their reviews over time in case they believe the movie's performance has changed. 
+   - **Scope:** V1 will start with a few movies, and users will be able to rate and leave reviews for the movies. V2 will have more movies. V3 will allow users to edit their reviews.
 
 ## Product Spec
 
@@ -31,25 +31,25 @@ Uncover hidden gems, savor unforgettable dishes, and share your dining adventure
 
 **Required Must-have Stories**
 
-* User can search for restaurants
-* User can rate a restaurant 
-* User can write a review for a restaurant
-* User can view a feed of restaurants
+* User can search for movies
+* User can rate a movie 
+* User can write a review for a movie
+* User can view a feed of movies
 
 **Optional Nice-to-have Stories**
 
-* User can see most rated restaurants
+* User can see most rated movies
 
 ### 2. Screen Archetypes
 
 - Stream
-    * User can view feed of restaurants with the most rated ones on top
-    * User can select a restaurant
+    * User can view feed of movies with the most rated ones on top
+    * User can select a movie
 - Reviews
-    * User can rate a restaurant
+    * User can rate a movie
     * User can write a review
 - Search
-    * User can search for restaurants
+    * User can search for movies
 
 ### 3. Navigation
 
@@ -62,7 +62,7 @@ Uncover hidden gems, savor unforgettable dishes, and share your dining adventure
 **Flow Navigation** (Screen to Screen)
 
 - Stream Screen
-    * => Detailed screen for the selected restaurant
+    * => Detailed screen for the selected movie
 - Review Page
     * => Home (after you are done reviewing)
 - Stream Screen
