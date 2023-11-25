@@ -31,14 +31,15 @@ MovieRatings is your go-to app for discovering, reviewing, and celebrating the d
 
 **Required Must-have Stories**
 
-* User can search for movies
-* User can rate a movie 
-* User can write a review for a movie
-* User can view a feed of movies
+* User can see list of movies
+* Users can see each movie detail
+* Users can rate a movie
+* User can vi
 
 **Optional Nice-to-have Stories**
 
-* User can see most rated movies
+* User can search for movies
+* User can write a review for a movie
 
 ### 2. Screen Archetypes
 
