@@ -31,15 +31,14 @@ MovieRatings is your go-to app for discovering, reviewing, and celebrating the d
 
 **Required Must-have Stories**
 
-* User can see list of movies
+* User can search for movies
+* User can rate a movie 
+* User can view a feed of movies
 * Users can see each movie detail
-* Users can rate a movie
-* User can vi
 
 **Optional Nice-to-have Stories**
 
-* User can search for movies
-* User can write a review for a movie
+* Users can login
 
 ### 2. Screen Archetypes
 
@@ -91,3 +90,26 @@ MovieRatings is your go-to app for discovering, reviewing, and celebrating the d
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+
+## MovieRatings
+Time Spent: 10 hours
+
+#### Required Features
+
+- [X] Users can see the list of movies
+- [X] Users can see each movie detail
+- [ ] Users can rate a movie
+
+#### Optional features
+- [ ] Users can login
+
+#### Video WalkThrough
+Here's a walkthrough of implemented task: 
+
+<div>
+    <a href="https://www.loom.com/share/ca1cafe765034997b21a7449989264f2">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ca1cafe765034997b21a7449989264f2-with-play.gif">
+    </a>
+</div>
+
